@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Assistant",
+  "description": "An AI-powered academic study buddy that helps college graduates prepare for placement exams using summaries, quizzes, flashcards, and Pomodoro focus timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
